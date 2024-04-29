@@ -1,0 +1,7 @@
+server = 'mutup.database.windows.net'
+database = 'db_clientes'
+username = 'matheus_admin'
+password = '%40Peppers08'
+tabela_metaads = 'Meta Ads'
+tabela_googleads = 'Google Ads'
+credentials_google_path = '/home/matheus/public_html/myapp/creds/dashboards_de_clientes_json_keyfile.json'

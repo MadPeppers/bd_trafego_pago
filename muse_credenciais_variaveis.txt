@@ -1,0 +1,5 @@
+cliente = 'muse'
+sheet_id = '1aTScqHS9_wwk4qdP-_Ht0OgFeWJETx47b5Pdd4jmBro'
+tabela_bd_meta = '{cliente}_metaads'
+tabela_bd_google = '{cliente}_googleads'
+log_path = '/home/matheus/public_html/myapp/logs/{cliente}_log_update.log'
